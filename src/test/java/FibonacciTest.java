@@ -11,7 +11,7 @@ class FibonacciTest {
 
     @Test
     void someTest2() {
-        assertEquals(1,Fibonacci.Fib(3));
+        assertEquals(1,Fibonacci.Fib(1));
     }
 
 }
