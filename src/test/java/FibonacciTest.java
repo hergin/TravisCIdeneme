@@ -9,4 +9,9 @@ class FibonacciTest {
         assertEquals(1,Fibonacci.Fib(1));
     }
 
+    @Test
+    void someTest2() {
+        assertEquals(1,Fibonacci.Fib(3));
+    }
+
 }
