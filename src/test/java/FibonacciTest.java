@@ -10,6 +10,11 @@ class FibonacciTest {
     }
 
     @Test
+    void someTest3() {
+        assertEquals(1,Fibonacci.Fib(3));
+    }
+
+    @Test
     void someTest2() {
         assertEquals(1,Fibonacci.Fib(1));
     }
